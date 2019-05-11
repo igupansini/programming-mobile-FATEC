@@ -11,6 +11,10 @@ Link YouTube: https://youtu.be/VZ4x4G986w8
 Desafio Concluido: Apresentar a informação da Tabela do IMC no DisplayAlert junto com as outras informações do usuário.
 Link YouTube: https://youtu.be/-IsG_NwKXpE
 
+# Calculadora de Combustível
+Desafios Concluidos: Fazer validações para os campos de entrada do usuário e criar um estilo próprio.
+Link YouTube: https://youtu.be/JLzk7YYzSNk
+
 # Licence
 MIT License
 
