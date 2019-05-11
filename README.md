@@ -7,7 +7,7 @@ Aplicativos desenvolvidos durante a aula de Programação para Dispositivos Móv
 Desafios Concluidos: Apresentar um DisplayAlert para mão de 11; Criar uma forma para desfazer pontuação; Travar a rotação da tela.
 Link YouTube: https://youtu.be/VZ4x4G986w8
 
-
+# Licence
 MIT License
 
 Copyright (c) 2019 Igor Martins Pansini
