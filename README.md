@@ -9,7 +9,7 @@ Link YouTube: https://youtu.be/VZ4x4G986w8
 
 # Calculadora de IMC
 Desafio Concluido: Apresentar a informação da Tabela do IMC no DisplayAlert junto com as outras informações do usuário.
-Link YouTube: 
+Link YouTube: https://youtu.be/-IsG_NwKXpE
 
 # Licence
 MIT License
