@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55cb53db2a4d4208b94111cb0df468f4)](https://www.codacy.com/app/igupansini/Programming-Mobile-FATEC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=igupansini/Programming-Mobile-FATEC&amp;utm_campaign=Badge_Grade)
+
 # Programming-Mobile-FATEC
 Apps mobile made in class - C# - Xamarin - Completed Challenges
 
