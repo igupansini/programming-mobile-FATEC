@@ -6,19 +6,19 @@ Apps mobile made in class - C# - Xamarin - Completed Challenges
 
 Aplicativos desenvolvidos durante a aula de Programação para Dispositivos Móveis com o professor Kléber Andrade.
 
-# Marcador de Truco
+## Marcador de Truco
 Desafios Concluidos: Apresentar um DisplayAlert para mão de 11; Criar uma forma para desfazer pontuação; Travar a rotação da tela.
 Link YouTube: https://youtu.be/VZ4x4G986w8
 
-# Calculadora de IMC
+## Calculadora de IMC
 Desafio Concluido: Apresentar a informação da Tabela do IMC no DisplayAlert junto com as outras informações do usuário.
 Link YouTube: https://youtu.be/-IsG_NwKXpE
 
-# Calculadora de Combustível
+## Calculadora de Combustível
 Desafios Concluidos: Fazer validações para os campos de entrada do usuário e criar um estilo próprio.
 Link YouTube: https://youtu.be/JLzk7YYzSNk
 
-# Calculadora
+## Calculadora
 Desafios Concluidos:
 
 # Licence
